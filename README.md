@@ -1,2 +1,2 @@
-# Deep-Learning
-紀錄「深度學習」的學習過程  
+# Deep Learning with Python
+
